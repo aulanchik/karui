@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+  --color-*: initial;
+    
+  --color-black: #000;
+  --color-white: #fff;
+
+  --color-gray-50: oklch(96.2% 0.006 248.4);
+  --color-gray-100: oklch(90.3% 0.012 248.4);
+  --color-gray-200: oklch(82.1% 0.020 248.4);
+  --color-gray-300: oklch(72.8% 0.028 248.4);
+  --color-gray-400: oklch(63.4% 0.036 248.4);
+  --color-gray-500: oklch(52.8% 0.042 248.4);
+  --color-gray-600: oklch(43.2% 0.046 248.4);
+  --color-gray-700: oklch(33.8% 0.046 248.4);
+  --color-gray-800: oklch(26.0% 0.042 248.4);
+  --color-gray-900: oklch(18.8% 0.042 248.4);
+
+  --color-blue-50: oklch(91.8% 0.025 286.3);
+  --color-blue-100: oklch(87.6% 0.036 286.3);
+  --color-blue-200: oklch(78.2% 0.058 286.3);
+  --color-blue-300: oklch(68.8% 0.081 286.3);
+  --color-blue-400: oklch(59.4% 0.104 286.3);
+  --color-blue-500: oklch(55.1% 0.117 286.3);
+  --color-blue-600: oklch(50.8% 0.131 286.3);
+  --color-blue-700: oklch(38.2% 0.144 286.3);
+  --color-blue-800: oklch(32.0% 0.118 286.3);
+  --color-blue-900: oklch(22.8% 0.082 286.3);
+
+  --color-green-50: oklch(98.4% 0.015 155.1);
+  --color-green-100: oklch(95.8% 0.032 155.1);
+  --color-green-200: oklch(91.2% 0.056 155.1);
+  --color-green-300: oklch(84.1% 0.082 155.1);
+  --color-green-400: oklch(75.2% 0.108 155.1);
+  --color-green-500: oklch(66.3% 0.118 155.1);
+  --color-green-600: oklch(55.2% 0.112 155.1);
+  --color-green-700: oklch(45.1% 0.096 155.1);
+  --color-green-800: oklch(36.4% 0.078 155.1);
+  --color-green-900: oklch(30.2% 0.065 155.1);
+
+  --color-orange50: oklch(98.2% 0.015 81.7);
+  --color-orange100: oklch(94.8% 0.038 81.7);
+  --color-orange200: oklch(89.2% 0.075 81.7);
+  --color-orange300: oklch(82.1% 0.121 81.7);
+  --color-orange400: oklch(76.8% 0.158 81.7);
+  --color-orange500: oklch(68.4% 0.165 81.7);
+  --color-orange600: oklch(57.2% 0.154 81.7);
+  --color-orange700: oklch(45.8% 0.138 81.7);
+  --color-orange800: oklch(37.1% 0.118 81.7);
+  --color-orange900: oklch(31.2% 0.098 81.7);
+
+  --color-red-50: oklch(96.8% 0.014 27.3);
+  --color-red-100: oklch(92.5% 0.028 27.3);
+  --color-red-200: oklch(86.8% 0.052 27.3);
+  --color-red-300: oklch(78.2% 0.088 27.3);
+  --color-red-400: oklch(66.1% 0.135 27.3);
+  --color-red-500: oklch(56.8% 0.176 27.3);
+  --color-red-600: oklch(49.1% 0.191 27.3);
+  --color-red-700: oklch(41.2% 0.172 27.3);
+  --color-red-800: oklch(35.1% 0.148 27.3);
+  --color-red-900: oklch(30.8% 0.125 27.3);
+}
