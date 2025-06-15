@@ -5,6 +5,7 @@ import { FaStar, FaArrowRight } from 'react-icons/fa';
 const meta: Meta<typeof Button> = {
     title: 'Components/Button',
     component: Button,
+    tags: ['autodocs'],
     argTypes: {
         size: {
             control: { type: 'select' },
