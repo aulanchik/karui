@@ -1,13 +1,13 @@
 {
-  "name": "@aulanchik/koa",
+  "name": "@aulanchik/karui",
   "author": "Artyom Ulanchik",
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aulanchik/koa.git"
+    "url": "https://github.com/aulanchik/karui.git"
   },
-  "homepage": "https://github.com/aulanchik/koa#readme",
+  "homepage": "https://github.com/aulanchik/karui#readme",
   "publishConfig": {
     "access": "public"
   },
