@@ -6,6 +6,7 @@ import { action } from 'storybook/actions';
 const meta: Meta<typeof Checkbox> = {
     title: 'Components/Checkbox',
     component: Checkbox,
+    tags: ['autodocs'],
     argTypes: {
         label: {
             control: 'text',
